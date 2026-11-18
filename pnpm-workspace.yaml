@@ -4,3 +4,8 @@ allowBuilds:
   esbuild: true
 # pnpm 10 configuration
 # Native modules that need build scripts (postinstall) to compile binaries
+
+packageExtensions:
+  "@astrojs/astro2tsx":
+    dependencies:
+      "@emnapi/runtime": "1.11.3"
