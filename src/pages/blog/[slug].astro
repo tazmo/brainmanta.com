@@ -22,5 +22,5 @@ const portableComponents = {
 ---
 
 <BlogLayout post={post} locale={locale} headings={headings}>
-  <PortableText value={content} components={portableComponents} />
+  <PortableText value={content as any} components={portableComponents as any} />
 </BlogLayout>
