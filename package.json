@@ -66,7 +66,7 @@
     "better-sqlite3": "^12.8.0",
     "clsx": "^2.1.1",
     "cva": "1.0.0-beta.8",
-    "emdash": "^1.4.0",
+    "emdash": "^1.5.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "schema-dts": "^2.1.0",
